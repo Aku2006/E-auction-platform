@@ -1,2 +1,8 @@
-# E-auction-platform
-this is e commerce auction platform where vendor can auction their product and then bidder can bid the product in real time and after the auction is completed the person who do the highest bid will be the winner can purchase that product in the highest bid amount.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
